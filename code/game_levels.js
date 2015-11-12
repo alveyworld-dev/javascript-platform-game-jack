@@ -123,7 +123,7 @@ var GAME_LEVELS = [
    "                                                                                                              ",
    "                                                                                                              ",
    "                                                                                                              ",
-   "                                                                                                              ",
+   "            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
    "                                                                                                              ",
    "                                                                                                              ",
    "  xxxxxxxxxxx                                                                                                 ",
