@@ -117,7 +117,7 @@ var GAME_LEVELS = [
    "    x                          xx                                                                       v     ",
    "    x                           x                                                                             ",
    "    x                           x                                                                             ",
-   "    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     xxxxxx       xxxxxx    xxxxxx   xxxx   xxx    xxxxxxxxxxxxx       ",
+   "    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxx    xxxxxxxxx   xxxxxxx  xxxxx  xxxxx   xxxxxxxxxxxxx       ",
    "                                      x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!x          =        ",
    "                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   ",
    "                                                                                                              ",
