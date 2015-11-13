@@ -127,14 +127,14 @@ var GAME_LEVELS = [
    "                                                                                                              ",
    "                                                                                                              ",
    "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 ",
-   "  x         x   xxxxxxxxx   xxxxxxxxx   xx                                                                    ",
-   "  x         x   x       x   x       x   x                                                                     ",
-   "  x   o     xxxxx       xxxxx       xxxxx                                                                     ",
-   "  xxxxxxx                                     xxxxx       xx     xx     xxx                                   ",
-   "        x                                     x   x                     xxx                                   ",
-   "        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x                                                           ",
-   "                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-   "                                                                                                              "]
+   " x          x                                                                                                 ",
+   " x       o  x                                                                                                 ",
+   " x          x                                                                                                 ",
+   " x     xxxxxx                                                                                                 ",
+   " xx                                                                                                           ",
+   " xxx                                                                                                          ",
+   " xxxx                                                                                                         ",
+   "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]
 ];
 
 if (typeof module != "undefined" && module.exports)
