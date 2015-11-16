@@ -9,6 +9,11 @@
 .coin   { background: rgb(241, 229, 89); }
 .player { background: rgb(64, 64, 64); }
 
+{ name: "badGuy",
+  type: "image",
+  src: "badGuy.png"
+}
+
 .game {
   overflow: hidden;
   max-width: 600px;
