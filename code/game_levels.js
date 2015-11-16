@@ -127,14 +127,14 @@ var GAME_LEVELS = [
    "                                                                                                              ",
    "                                                                                                              ",
    "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 ",
-   " x          x!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!vvvv                 ",
-   " x       o  xvvvvvvvvvvvvvvvv!!!!!!!!!!!!!!!!!!!vvvvvvvvvvx!!!!!!!!!!!!!!!!!!!!vvvvvvvvvv                     ",
-   " x          x               x!!!!!!!!!vvvvvvvvvv          x!!!!!!!!!!!vvvvvvvvv                               ",
-   " x     xxxxxx               x!!!vvvvvv                    x!!!vvvvvvvv                                        ",
-   " xx                          xxx                          xxxx                                                ",
-   " xxx                                                                                                          ",
-   " xxxx                                                                                                         ",
-   "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]
+   " x       xxxxxxx !  !  x  !  ! x  x    !   !  xx  !  !                                                        ",
+   " x          x    !  ! x!x !! ! xxx      ! !  x!!x !  !                                                        ",
+   " x     o    x    !!!! xxx ! !! xxx       !   x!!x !  !                                                        ",
+   " x   xxxxx  x    !  !x   x!  ! x  x      !    xx  !!!!                                                        ",
+   " x                                                                                                            ",
+   " x                                                                                                            ",
+   " x xx                                                                                                         ",
+   " xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"]
 ];
 
 if (typeof module != "undefined" && module.exports)
