@@ -1,6 +1,6 @@
 .background    { background: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKSaJ9lbVDQOIsCOWWyMQDAaNxOGVAIqycS-Q7QhJHFzevqTxcbQ");
                  table-layout: fixed;
-                 border-spacing: 0;   }
+                 border-spacing: 1;   }
 .background td { padding: 0;          }
 .lava          { background: cyan; }
 .wall          { background: black;   }
