@@ -2,7 +2,7 @@
                  table-layout: fixed;
                  border-spacing: 0;   }
 .background td { padding: 0;          }
-.lava          { background: cyan; }
+.lava          { background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt-YIBDNKX52NSJZC9Em2-EcGI5aNDC2cDJWQ1uc2WB0qp_ay1"); }
 .wall          { background: black;   }
 
 .actor  { position: absolute;  }
